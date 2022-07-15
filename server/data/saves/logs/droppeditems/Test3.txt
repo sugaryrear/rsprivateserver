@@ -1,0 +1,5 @@
+[6/19/22 01:31AM] Player dropped item: Dagon'hai robe top, id: 14497, amount: 1	
+[6/19/22 01:31AM] Player dropped item: Infinity bottoms, id: 15616, amount: 1	
+[6/19/22 01:31AM] Player dropped item: None, id: 23187, amount: 1	
+[6/19/22 01:31AM] Player dropped item: Enchanted top, id: 7399, amount: 1	
+[6/19/22 01:31AM] Player dropped item: Dagon'hai hat, id: 14499, amount: 1	

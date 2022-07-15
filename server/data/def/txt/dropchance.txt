@@ -1,0 +1,15 @@
+Item Id: 23221
+dropchance: 30
+finish
+
+Item Id: 4685
+dropchance: 15
+finish
+
+Item Id: 23281
+dropchance: 20
+finish
+
+Item Id: 23306
+dropchance: 25
+finish
